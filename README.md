@@ -1,6 +1,6 @@
 
 # TEAM NAME
-Team SNS
+SNS
 
 # TEAM CODE
 d82573b182
